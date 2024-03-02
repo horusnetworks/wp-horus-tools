@@ -3,7 +3,7 @@
 Plugin Name: WP Horus Tools
 Plugin URI: https://github.com/horusnetworks/wp-horus-tools
 Description: A few tools for Wordpress
-Version: 1.0
+Version: 1.1
 Author: Alexis Domjan
 Author URI: https://www.horus.ch
 */
