@@ -1,2 +1,7 @@
-# wp-horus-tools
-Wordpress Horus Tools
+# Wordpress Horus Tools
+
+A simple set of few tools for Wordpress. 
+
+Actual functionalities:
+
+* Disable author enumeration
